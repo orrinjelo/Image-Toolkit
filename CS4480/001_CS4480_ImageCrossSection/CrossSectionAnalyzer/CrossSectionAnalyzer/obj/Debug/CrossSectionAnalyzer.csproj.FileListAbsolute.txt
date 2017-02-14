@@ -1,0 +1,9 @@
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\bin\Debug\CrossSectionAnalyzer.exe.config
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\obj\Debug\CrossSectionAnalyzer.csprojResolveAssemblyReference.cache
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\obj\Debug\CrossSectionAnalyzer.frmMain.resources
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\obj\Debug\CrossSectionAnalyzer.Properties.Resources.resources
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\obj\Debug\CrossSectionAnalyzer.csproj.GenerateResource.Cache
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\bin\Debug\CrossSectionAnalyzer.exe
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\bin\Debug\CrossSectionAnalyzer.pdb
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\obj\Debug\CrossSectionAnalyzer.exe
+J:\School\CS4480\001_CS4480_ImageCrossSection\CrossSectionAnalyzer\CrossSectionAnalyzer\obj\Debug\CrossSectionAnalyzer.pdb

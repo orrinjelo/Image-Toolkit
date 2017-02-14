@@ -1,0 +1,12 @@
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\bin\Debug\ImageToolkit.exe.config
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\bin\Debug\ImageToolkit.exe
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\bin\Debug\ImageToolkit.pdb
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.frmMain.resources
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.Properties.Resources.resources
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.csproj.GenerateResource.Cache
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.exe
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.pdb
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.frmStandard.resources
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.Form1.resources
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.csprojResolveAssemblyReference.cache
+J:\School\CS4480\001_CS4480_ImageToolkit\ImageToolkit\ImageToolkit\obj\Debug\ImageToolkit.frmIntensity.resources

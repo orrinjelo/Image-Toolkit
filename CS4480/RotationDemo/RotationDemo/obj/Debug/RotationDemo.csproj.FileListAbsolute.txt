@@ -1,0 +1,9 @@
+J:\School\CS4480\RotationDemo\RotationDemo\bin\Debug\RotationDemo.exe.config
+J:\School\CS4480\RotationDemo\RotationDemo\bin\Debug\RotationDemo.exe
+J:\School\CS4480\RotationDemo\RotationDemo\bin\Debug\RotationDemo.pdb
+J:\School\CS4480\RotationDemo\RotationDemo\obj\Debug\RotationDemo.csprojResolveAssemblyReference.cache
+J:\School\CS4480\RotationDemo\RotationDemo\obj\Debug\RotationDemo.frmMain.resources
+J:\School\CS4480\RotationDemo\RotationDemo\obj\Debug\RotationDemo.Properties.Resources.resources
+J:\School\CS4480\RotationDemo\RotationDemo\obj\Debug\RotationDemo.csproj.GenerateResource.Cache
+J:\School\CS4480\RotationDemo\RotationDemo\obj\Debug\RotationDemo.exe
+J:\School\CS4480\RotationDemo\RotationDemo\obj\Debug\RotationDemo.pdb
